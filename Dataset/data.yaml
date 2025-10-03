@@ -1,0 +1,24 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Bottle cap
+  1: Can
+  2: Juice Box
+  3: Juice box
+  4: Metal
+  5: Metal Waste
+  6: Plastic
+  7: Plastic Bag
+  8: Plastic Bottle
+  9: Plastic Waste
+  10: Plastic bag
+  11: Plastic bottle
+  12: Plastic cup
+  13: Plastic packaging
+  14: Plastic-Bottle
+  15: Undefined trash
+  16: Wood
+  17: bottles
+  18: plastic
